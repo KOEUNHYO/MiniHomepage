@@ -8,3 +8,6 @@
 
 ## 카트
 - cart.md 추가
+
+## 서치
+- search.md 추가
