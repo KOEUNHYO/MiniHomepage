@@ -9,5 +9,9 @@
 ## 카트
 - cart.md 추가
 
+## 사이드바 추가
+- sidebar.md 추가
+
 ## 서치
 - search.md 추가
+
